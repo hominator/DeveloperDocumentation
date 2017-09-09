@@ -37,7 +37,7 @@ Download and install the text editor of your choice:
 ### Data Streaming
   {{> data-streaming}}
 ### Keyboard
-  {{> roll}}
+  {{> keyboard}}
 ### Roll
   {{> roll}}
 ### Shakeometer
